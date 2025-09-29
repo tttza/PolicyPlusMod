@@ -1,5 +1,10 @@
 # Policy Plus Mod
 
+[![Project Moved](https://img.shields.io/badge/Project-Moved-blue?style=for-the-badge)](https://github.com/tttza/PolicyPlusPlus)  
+Active development has moved to the new repository [Policy++](https://github.com/tttza/PolicyPlusPlus)
+
+---
+
 Local Group Policy Editor plus more, for all Windows editions.
 
 [![Build Latest](https://github.com/tttza/PolicyPlus/actions/workflows/publish.yml/badge.svg)](https://github.com/tttza/PolicyPlus/actions/workflows/latest.yml)
